@@ -16,8 +16,8 @@ Also, in TinkerCad the simulation showed a "blast" symbol because the current th
 ## The Logic
 When push button is not pressed, LED is set to HIGH or it glows and Buzzer does not beep. 
 When the push buttonn is pressed LED turns off and Buzzer beeps.
-!(Circuit vizualization)(Buzzer_LED_Pic.png)
-!(Real Life Demo)(Arduino-LED-Buzzer_video.mp4)
+![Circuit vizualization](Buzzer_LED_Pic.png)
+![Real Life Demo](Arduino-LED-Buzzer_video.mp4)
 ## 📁 Included Files
 * **Buzzer_LED_Code.ino**: Arduino source code.
 * **Buzzer_LED_Pic.png**: Circuit diagram.
